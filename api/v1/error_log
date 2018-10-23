@@ -1,0 +1,127 @@
+[05-Oct-2018 00:04:29 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:29 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:29 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:29 UTC] PHP Fatal error:  Uncaught Error: Class 'dbObj' not found in /home/wwwmorto/public_html/eval/api/v1/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 3
+[05-Oct-2018 00:04:47 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:47 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:47 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 17
+[05-Oct-2018 00:04:48 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:48 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:48 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 17
+[05-Oct-2018 00:05:49 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:05:49 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:05:49 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 17
+[05-Oct-2018 00:06:57 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:06:57 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:06:57 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:06:58 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:06:58 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:06:58 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:07:49 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:07:49 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:07:49 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 17
+[05-Oct-2018 00:08:10 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:08:10 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:08:10 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 17
+[05-Oct-2018 00:08:55 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:08:55 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:08:55 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:28 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:28 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:28 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:51 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:51 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:51 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:10:11 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:11 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:11 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:10:12 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:12 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:12 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:10:31 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:31 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:31 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:11:00 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:11:00 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:11:00 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:11:19 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:11:19 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:11:19 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 16
+[05-Oct-2018 00:12:10 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:12:10 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:12:10 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getEmployees() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:13:59 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:13:59 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:13:59 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getapples() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:14:00 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:14:00 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:14:00 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getapples() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:15:35 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:15:35 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:15:35 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getapples() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
+[05-Oct-2018 00:16:18 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:16:18 UTC] PHP Warning:  include(functions/functions.php): failed to open stream: No such file or directory in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:16:18 UTC] PHP Warning:  include(): Failed opening 'functions/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wwwmorto/public_html/eval/api/v1/users.php on line 2
+[05-Oct-2018 00:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getapples() in /home/wwwmorto/public_html/eval/api/v1/users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wwwmorto/public_html/eval/api/v1/users.php on line 15
