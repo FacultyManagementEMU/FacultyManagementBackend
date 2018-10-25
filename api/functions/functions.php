@@ -71,7 +71,19 @@ function getResearch($userID=0){
 	$json = json_encode($results);
 	echo $json;
 }
-
+//Qian Jia
+function getService($userID=0){
+	$db = connect();
+	$query="SELECT * FROM service";
+	if($userID != 0){
+		$query.=" WHERE userID = $userID";
+	}
+	$stmt=$db->prepare($query);
+	$stmt->execute();
+	$results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+	$json = json_encode($results);
+	echo $json;
+}
 /*
 $stmt=$db->prepare("SELECT * FROM tbl_users WHERE userID = ?");
 $stmt->execute(array(1));
