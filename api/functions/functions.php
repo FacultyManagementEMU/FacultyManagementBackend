@@ -31,7 +31,32 @@ function getEmployees($userID=0){
 	$json = json_encode($results);
 	echo $json;
 }
-
+//Created by Kyle Cvengros
+function getCourseReview($userID=0){
+	$db = connect();
+	$query="SELECT * FROM couseReviews";
+	if($userID != 0){
+		$query.=" WHERE courseID IN (SELECT ID FROM courses WHERE userID=$userID)";
+	}
+	$stmt=$db->prepare($query);
+	$stmt->execute();
+	$results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+	$json = json_encode($results);
+	echo $json;
+}
+//Created by Kyle Cvengros
+function getPeerReview($userID=0){
+	$db = connect();
+	$query="SELECT * FROM peerReviews";
+	if($userID != 0){
+		$query.=" WHERE userID = $userID";
+	}
+	$stmt=$db->prepare($query);
+	$stmt->execute();
+	$results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+	$json = json_encode($results);
+	echo $json;
+}
 /*
 $stmt=$db->prepare("SELECT * FROM tbl_users WHERE userID = ?");
 $stmt->execute(array(1));
