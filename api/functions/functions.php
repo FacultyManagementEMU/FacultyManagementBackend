@@ -71,6 +71,23 @@ function getResearch($userID=0){
 	$json = json_encode($results);
 	echo $json;
 }
+
+//Josiah Soncrant
+function addResearch($userID=0, $Name, $Year, $File_Pointer, $ResearchID, $Date){
+	$db = connect();
+	if($userID != 0){
+		$query="INSERT INTO research(userID, Name, Year, File_Pointer, ResearchID, Date)"
+		$query+= "VALUES ('"+$userID+"', '" + $Name +"', '"+ $Year +"', '"+ $File_Pointer +"', '" + $ResearchID +"', '" + $Date +"');";
+		
+		$stmt=$db->prepare($query);
+		$stmt->execute();
+		$results = $stmt->fetchAll(PDO::FETCH_ASSOC);
+		$json = json_encode($results);
+		echo $json;
+	}
+	
+}
+
 //Qian Jia
 function getService($userID=0){
 	$db = connect();
