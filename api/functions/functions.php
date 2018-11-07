@@ -76,7 +76,7 @@ function getResearch($userID=0){
 function addResearch($userID=0, $Name, $Year, $File_Pointer, $ResearchID, $Date){
 	$db = connect();
 	if($userID != 0){
-		$query="INSERT INTO research(userID, Name, Year, File_Pointer, ResearchID, Date)"
+		$query="INSERT INTO research(userID, Name, Year, File_Pointer, ResearchID, Date)";
 		$query+= "VALUES ('"+$userID+"', '" + $Name +"', '"+ $Year +"', '"+ $File_Pointer +"', '" + $ResearchID +"', '" + $Date +"');";
 		
 		$stmt=$db->prepare($query);
